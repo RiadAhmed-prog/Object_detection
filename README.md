@@ -1,4 +1,4 @@
-# Object_detection
+# Object_detection (SSD MobilenetV2)
 
 Step 1:
 Download this repository
